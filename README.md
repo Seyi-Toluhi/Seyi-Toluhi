@@ -1,4 +1,4 @@
-![Lottie Animation](https://github.com/Seyi-Toluhi/Seyi-Toluhi/blob/main/Animation%20-%201717327327161%20(1).gif)
+![Lottie Animation](https://github.com/Seyi-Toluhi/Seyi-Toluhi/blob/main/Animation%20-%201717327528659.gif)
 
 
 # About Me
