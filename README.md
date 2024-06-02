@@ -1,6 +1,6 @@
 ![image](https://github.com/Seyi-Toluhi/Seyi-Toluhi/assets/112572024/c3a025ca-471a-4e4d-94d8-124c48f40d4e)
 
-About Me
+# About Me
 Imaginative and motivated Junior Developer capable of producing quality, test-driven code, interested in all aspects of software development! A background in Law has given me invaluable divergent thinking and a meticulous approach to all of my projects.
 
 🔭 I’m currently working on Lingo Voyage - an application that teaches Spanish and Yoruba(my native language).
