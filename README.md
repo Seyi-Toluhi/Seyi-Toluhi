@@ -1,4 +1,4 @@
-# Hi, I'm Seyi! Welcome to my GitHub Profile ![Lottie Animation](https://github.com/Seyi-Toluhi/Seyi-Toluhi/blob/main/Animation%20-%201717327327161%20(1).gif)
+# Hi, I'm Seyi! Welcome to my GitHub Profile       ![Lottie Animation](https://github.com/Seyi-Toluhi/Seyi-Toluhi/blob/main/Animation%20-%201717327327161%20(1).gif)
 
 
 ## About Me
