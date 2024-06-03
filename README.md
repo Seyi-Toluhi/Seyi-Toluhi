@@ -26,7 +26,7 @@ Creative and motivated Software Developer committed to producing high quality, t
 
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="60" height="60">
   </a>
   <a href="https://git-scm.com/">
     <img src="https://github.com/Seyi-Toluhi/Seyi-Toluhi/assets/112572024/5ba54a7b-8774-42db-9d08-1be8fa53cac1" alt="Git" width="60" height="60">
@@ -37,14 +37,30 @@ Creative and motivated Software Developer committed to producing high quality, t
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
   </a>
+  <a href="https://www.python.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60">
+  </a>
   <a href="https://nodejs.org/en">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60">
   </a>
+  <br>
   <a href="https://www.postgresql.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60">
   </a>
   <a href="https://react.dev/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60">
+  </a>
+   <a href="https://codepen.io/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-line-wordmark.svg" alt="Codepen" width="60" height="60">
+  </a>
+  <a href="https://jestjs.io/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="60" height="60">
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb" width="60" height="60">
+  </a>
+  <a href="https://www.netlify.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" alt="Netlify" width="60" height="60">
   </a>
 </p>
 
