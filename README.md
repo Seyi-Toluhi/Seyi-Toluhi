@@ -2,7 +2,7 @@
 ![Lottie Animation](https://github.com/Seyi-Toluhi/Seyi-Toluhi/blob/main/Animation%20-%201717327327161%20(1).gif)
 
 ## Previously a Solicitor. Now a Software Engineer.
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/1136px-LinkedIn_Logo_2013.svg.png)](https://www.linkedin.com/in/oluwaseyi-toluhi-26068724a/)
+[![N|Solid](https://content.linkedin.com/content/dam/brand/site/img/logo/logo-minimum-size.png)](https://www.linkedin.com/in/oluwaseyi-toluhi-26068724a/)
 
 ### About Me
 Creative and motivated Software Developer committed to producing high quality, test-driven code, interested in all facets of software development! A background in Law has given me invaluable divergent thinking and a meticulous approach to my projects.
