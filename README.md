@@ -74,7 +74,7 @@ Creative and motivated Software Developer committed to producing high quality, t
 <br>
 🛠️ Software Development Projects
 <br>
-I studied full-stack engineering at Makers Academy. The software development bootcamp focused on object-oriented design, Agile methodologies, test-driven development, pair programming and learning by doing. Here's a selection of my projects that demonstrate my technology and language skills.
+I studied full-stack engineering at Makers Academy. This software development bootcamp focused on object-oriented design, Agile methodologies, test-driven development, pair programming and learning by doing. Here's a selection of my projects that demonstrate my technology and language skills.
 <br>
 <br>
 <table>
