@@ -50,7 +50,6 @@ Creative and motivated Software Developer committed to producing high quality, t
   <a href="https://www.postgresql.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="60" height="60">
   </a>
-  
    <a href="https://codepen.io/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-line-wordmark.svg" alt="Codepen" width="60" height="60">
   </a>
@@ -75,7 +74,7 @@ Creative and motivated Software Developer committed to producing high quality, t
 <br>
 🛠️ Software Development Projects
 <br>
-I studied full-stack engineering at Makers Academy. The software development bootcamp focused on object-oriented design, Agile methodologies, test-driven development and pair programming.. Here's a selection of my projects that demonstrate my technology and language skills.
+I studied full-stack engineering at Makers Academy. The software development bootcamp focused on object-oriented design, Agile methodologies, test-driven development, pair programming and learning by doing. Here's a selection of my projects that demonstrate my technology and language skills.
 <br>
 <br>
 <table>
