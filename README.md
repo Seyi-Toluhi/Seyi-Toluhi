@@ -8,7 +8,7 @@ Creative and motivated Software Developer committed to producing high quality, t
 
 
 - 🔭 I’m currently working on Lingo Voyage - a full-stack application that teaches Spanish and Yoruba(my native language). I designed all aspects of Lingo Voyage from the UI to the backend and structure of database.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/oluwaseyi-toluhi-26068724a/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/oluwaseyi-toluhi-26068724a/), [Email](seyiadeyekun@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I was a child, I believed other countries were in the sky because I saw planes fly high 😄!
 
