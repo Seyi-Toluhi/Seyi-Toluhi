@@ -8,7 +8,7 @@
 [![N|Solid](https://camo.githubusercontent.com/e50f2fd2021f51e597b57f985877c1667e4667952451c7f5b298538725379060/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47697468756243562d3442344234423f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)](https://github.com/Seyi-Toluhi/CV/blob/main/README.md)
 
 ### **About Me**
-Creative and motivated Software Developer committed to producing high quality, test-driven code, interested in all facets of software development! A background in Law has given me invaluable divergent thinking and a meticulous approach to my projects.
+Creative and motivated Software + DevOps Engineer committed to producing high quality, test-driven code, interested in all facets of software development! A background in Law has given me invaluable divergent thinking and a meticulous approach to my projects.
 
 
 - 🔭 I’m currently working on [Lingo Voyage](https://github.com/Seyi-Toluhi/language_learning_app) - a full-stack application that teaches Spanish and Yoruba(my native language). I designed all aspects of Lingo Voyage from it's UI to it's backend and database structure.
